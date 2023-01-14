@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="46px" viewBox="0 0 48 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Subscriptions</title>
+    <defs>
+        <path d="M34.5,32 L13.5,32 C12.6735,32 12,31.328 12,30.5 L12,15.875 L23.1,24.2 C23.367,24.401 23.6835,24.5 24,24.5 C24.3165,24.5 24.633,24.401 24.9,24.2 L36,15.875 L36,30.5 C36,31.328 35.3265,32 34.5,32 L34.5,32 Z M33.4995,14 L24,21.125 L14.5005,14 L33.4995,14 Z M34.5,11 L13.5,11 C11.019,11 9,13.019 9,15.5 L9,30.5 C9,32.981 11.019,35 13.5,35 L34.5,35 C36.981,35 39,32.981 39,30.5 L39,15.5 C39,13.019 36.981,11 34.5,11 L34.5,11 Z" id="path-1"></path>
+    </defs>
+    <g id="Subscriptions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use fill="#0057A8" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,64 @@
+.register_screen {
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 71px;
+}
+.heading {
+  font-size: xx-large;
+  font-weight: 600;
+  padding: 15px;
+  font-family: system-ui;
+}
+.reg-container {
+  background-color: white;
+}
+.fields {
+  padding-top: 10px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 15px;
+  margin: 10px;
+  border: 1px solid #c5d0dc;
+  border-radius: 6px;
+  box-shadow: 0 4px 2px 0 rgb(0 0 0 / 15%);
+}
+label {
+  font-size: 18px;
+}
+.input {
+  border-style: none;
+  font-size: 18px;
+}
+.w-95 {
+  width: 95%;
+  font-size: 17px;
+}
+.em {
+  font-size: 12px;
+}
+.bookNow {
+  width: 100%;
+  position: fixed;
+  bottom: 10px;
+  left: 0;
+  background-color: aliceblue;
+  border-bottom: none;
+}
+.book-btn {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 48px;
+  background: #0058a9;
+  border-radius: 4px;
+  font-family: "Mukta";
+  font-weight: 400;
+  font-size: 21px;
+}

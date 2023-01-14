@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>time</title>
+    <g id="time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9,24 C9,32.2709999 15.7290001,39 24,39 C32.2709999,39 39,32.2709999 39,24 C39,15.7290001 32.2709999,9 24,9 C15.7290001,9 9,15.7290001 9,24 Z M12,24 C12,17.3835003 17.3835003,12 24,12 C30.6164989,12 36,17.3835003 36,24 C36,30.6164989 30.6164989,36 24,36 C17.3835003,36 12,30.6164989 12,24 Z M22.5,16.5 L22.5,25.5 L31.5,25.5 L31.5,22.5 L25.5,22.5 L25.5,16.5 L22.5,16.5 Z" fill="#0057A8"></path>
+    </g>
+</svg>

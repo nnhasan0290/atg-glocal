@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow</title>
+    <defs>
+        <path d="M18.767321,37.6642807 C18.0590639,37.6642807 17.3508068,37.393151 16.8113141,36.8536583 C15.729562,35.7719062 15.729562,34.0233964 16.8113141,32.9416444 L25.9550241,23.7979343 L17.1571427,14.6874238 C16.0975237,13.5863053 16.1279566,11.8350289 17.2263085,10.7754099 C18.327427,9.71579084 20.0787033,9.74622376 21.1383224,10.841809 L31.823045,21.9083264 C32.8715975,22.9956118 32.8577644,24.7192219 31.7898454,25.7871408 L20.723328,36.8536583 C20.1838353,37.393151 19.4755781,37.6642807 18.767321,37.6642807" id="path-1"></path>
+    </defs>
+    <g id="arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use fill="#0057A8" fill-rule="nonzero" transform="translate(24.300110, 23.832140) scale(1, -1) translate(-24.300110, -23.832140) " xlink:href="#path-1"></use>
+    </g>
+</svg>

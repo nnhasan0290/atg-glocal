@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="34px" viewBox="0 0 48 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>HRM</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Glocal-CSR-Test-Result-opt2" transform="translate(-122.000000, -752.000000)">
+            <g id="Group-8" transform="translate(83.000000, 216.000000)">
+                <g id="Group-9" transform="translate(0.000000, 297.000000)">
+                    <g id="Group-4" transform="translate(18.000000, 222.000000)">
+                        <g id="HRM" transform="translate(21.000000, 17.000000)">
+                            <g id="Group-15" transform="translate(0.037270, 20.345455)" fill="#E01F27" fill-rule="nonzero">
+                                <path d="M2.88091096,3.75090703 C1.62634782,3.75090703 0.538325529,4.46395123 0,5.50687984 C0.867797055,5.93830934 1.84602306,6.18090703 2.88091174,6.18090703 C3.91579964,6.18090703 4.89402565,5.93830934 5.76182231,5.50687984 C5.22349679,4.46395045 4.1354741,3.75090703 2.88091096,3.75090703 Z" id="user-/-user_circle"></path>
+                                <circle id="Oval" cx="2.79438049" cy="1.57532471" r="1.57532471"></circle>
+                            </g>
+                            <g id="Group-15" transform="translate(40.400906, 18.709091)" fill="#E01F27" fill-rule="nonzero">
+                                <path d="M3.40471296,4.43289013 C1.92204743,4.43289013 0.636202898,5.27557872 0,6.50813072 C1.02557834,7.01800194 2.18166362,7.30470831 3.40471387,7.30470831 C4.62776321,7.30470831 5.78384849,7.01800194 6.80942637,6.50813072 C6.17322347,5.27557781 4.88737849,4.43289013 3.40471296,4.43289013 Z" id="user-/-user_circle"></path>
+                                <circle id="Oval" cx="3.30244968" cy="1.86174739" r="1.86174739"></circle>
+                            </g>
+                            <g id="Group-8" transform="translate(23.853663, 16.298616) rotate(15.000000) translate(-23.853663, -16.298616) translate(6.853663, 4.298616)" stroke="#0057A8" stroke-width="2">
+                                <line x1="18.4772197" y1="15.5993445" x2="33.2374984" y2="23.9767144" id="Line-2" stroke-linecap="round"></line>
+                                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="11.4798294" cy="11.5570767" r="10.1038961"></circle>
+                            </g>
+                            <g id="Group-15" transform="translate(13.673634, 9.800000)" fill="#E01F27" fill-rule="nonzero">
+                                <path d="M4.71421794,6.13784787 C2.66129644,6.13784787 0.88089632,7.30464746 0,9.01125791 C1.42003154,9.71723346 3.02076501,10.1142115 4.71421921,10.1142115 C6.40767214,10.1142115 8.0084056,9.71723346 9.42843651,9.01125791 C8.54754019,7.3046462 6.76713944,6.13784787 4.71421794,6.13784787 Z" id="user-/-user_circle"></path>
+                                <circle id="Oval" cx="4.57262263" cy="2.57780408" r="2.57780408"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

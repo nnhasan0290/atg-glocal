@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="28px" viewBox="0 0 44 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>network</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Glocal-CSR-Test-Result-opt2" transform="translate(-711.000000, -587.000000)">
+            <g id="Group-8" transform="translate(83.000000, 216.000000)">
+                <g id="Group-9" transform="translate(0.000000, 297.000000)">
+                    <g id="Group-4" transform="translate(608.000000, 53.000000)">
+                        <g id="network" transform="translate(21.000000, 22.000000)">
+                            <line x1="20.5770471" y1="17.3333747" x2="20.5770471" y2="22.1988834" id="Line-4" stroke="#2E3A44" stroke-width="2" stroke-linecap="round"></line>
+                            <line x1="20.2920803" y1="22.3378828" x2="15.2531637" y2="23.7492967" id="Line-4" stroke="#2E3A44" stroke-width="2" stroke-linecap="round"></line>
+                            <line x1="25.6982011" y1="22.3378828" x2="20.6592844" y2="23.7492967" id="Line-4" stroke="#2E3A44" stroke-width="2" stroke-linecap="round" transform="translate(23.178743, 23.043590) scale(1, -1) translate(-23.178743, -23.043590) "></line>
+                            <path d="M21.1852348,10.1871588 C19.6309531,10.1871588 18.2829994,11.0705512 17.6160665,12.3626382 C18.6911826,12.8971374 19.9031094,13.1976923 21.1852357,13.1976923 C22.4673611,13.1976923 23.6792879,12.8971374 24.7544036,12.3626382 C24.0874706,11.0705502 22.7395164,10.1871588 21.1852348,10.1871588 Z" id="user-/-user_circle" fill="#E01F27" fill-rule="nonzero"></path>
+                            <circle id="Oval" stroke="#0057A8" stroke-width="1.5" fill-rule="nonzero" cx="20.8811414" cy="6.69007444" r="6.69007444"></circle>
+                            <circle id="Oval" fill="#E01F27" fill-rule="nonzero" cx="21.1852357" cy="6.38598015" r="2.12866005"></circle>
+                            <g id="Group-11" transform="translate(0.000000, 14.866832)" fill-rule="nonzero">
+                                <path d="M5.72250091,8.33494812 C4.45081594,8.33494812 3.3479447,9.05772368 2.8022723,10.1148858 C3.68191274,10.5522033 4.67348922,10.7981119 5.72250169,10.7981119 C6.77151338,10.7981119 7.76308986,10.5522033 8.64272991,10.1148858 C8.0970575,9.0577229 6.99418588,8.33494812 5.72250091,8.33494812 Z" id="user-/-user_circle" fill="#E01F27"></path>
+                                <circle id="Oval" stroke="#0057A8" stroke-width="1.5" cx="5.47369727" cy="5.47369727" r="5.47369727"></circle>
+                                <circle id="Oval" fill="#E01F27" cx="5.72250169" cy="5.22489285" r="1.74163095"></circle>
+                            </g>
+                            <g id="Group-11" transform="translate(30.950041, 14.866832)" fill-rule="nonzero">
+                                <path d="M5.72250091,8.33494812 C4.45081594,8.33494812 3.3479447,9.05772368 2.8022723,10.1148858 C3.68191274,10.5522033 4.67348922,10.7981119 5.72250169,10.7981119 C6.77151338,10.7981119 7.76308986,10.5522033 8.64272991,10.1148858 C8.0970575,9.0577229 6.99418588,8.33494812 5.72250091,8.33494812 Z" id="user-/-user_circle" fill="#E01F27"></path>
+                                <circle id="Oval" stroke="#0057A8" stroke-width="1.5" cx="5.47369727" cy="5.47369727" r="5.47369727"></circle>
+                                <circle id="Oval" fill="#E01F27" cx="5.72250169" cy="5.22489285" r="1.74163095"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

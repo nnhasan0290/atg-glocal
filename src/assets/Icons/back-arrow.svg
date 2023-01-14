@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>back-arrow</title>
+    <defs>
+        <path d="M13.00025,19.999272 C12.74425,19.999272 12.48825,19.901272 12.29325,19.706272 C11.90225,19.315272 11.90225,18.6832721 12.29325,18.2922721 L15.5982499,14.9872722 L12.41825,11.6942723 C12.03525,11.2962724 12.04625,10.6632724 12.44325,10.2802724 C12.84125,9.89727242 13.4742499,9.90827242 13.8572499,10.3042724 L17.7192498,14.3042722 C18.0982497,14.6972722 18.0932497,15.3202722 17.7072498,15.7062722 L13.7072499,19.706272 C13.5122499,19.901272 13.2562499,19.999272 13.00025,19.999272" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Glocal-CreateJob" transform="translate(-1145.000000, -80.000000)">
+            <g id="Group" transform="translate(1133.000000, 70.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="back-arrow" fill="#FFFFFF" fill-rule="nonzero" transform="translate(15.000080, 14.999636) scale(1, -1) rotate(180.000000) translate(-15.000080, -14.999636) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

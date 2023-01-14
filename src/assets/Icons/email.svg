@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>email</title>
+    <defs>
+        <path d="M342.9,29.8 L333.1,29.8 C332.7143,29.8 332.4,29.4864 332.4,29.1 L332.4,22.275 L337.58,26.16 C337.7046,26.2538 337.8523,26.3 338,26.3 C338.1477,26.3 338.2954,26.2538 338.42,26.16 L343.6,22.275 L343.6,29.1 C343.6,29.4864 343.2857,29.8 342.9,29.8 L342.9,29.8 Z M342.4331,21.4 L338,24.725 L333.5669,21.4 L342.4331,21.4 Z M342.9,20 L333.1,20 C331.9422,20 331,20.9422 331,22.1 L331,29.1 C331,30.2578 331.9422,31.2 333.1,31.2 L342.9,31.2 C344.0578,31.2 345,30.2578 345,29.1 L345,22.1 C345,20.9422 344.0578,20 342.9,20 L342.9,20 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Glocal-Login" transform="translate(-822.000000, -278.000000)">
+            <g id="Group-6" transform="translate(431.000000, 141.000000)">
+                <g id="Group-4" transform="translate(60.000000, 117.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="email" fill="#8392B3" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

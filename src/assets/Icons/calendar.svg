@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="14px" viewBox="0 0 13 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>calendar</title>
+    <defs>
+        <path d="M8.55555556,2.07777778 L7.33333333,2.07777778 L3.66666667,2.07777778 L2.44444444,2.07777778 L1.83333333,2.07777778 C0.822555556,2.07777778 0,2.90033333 0,3.91111111 L0,11.2444444 C0,12.2552222 0.822555556,13.0777778 1.83333333,13.0777778 L9.16666667,13.0777778 C10.1774444,13.0777778 11,12.2552222 11,11.2444444 L11,3.91111111 C11,2.90033333 10.1774444,2.07777778 9.16666667,2.07777778 L8.55555556,2.07777778 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Glocal-CreateJob" transform="translate(-117.000000, -1094.000000)">
+            <g id="Group-8" transform="translate(83.000000, 672.000000)">
+                <g id="Group-3" transform="translate(20.000000, 395.000000)">
+                    <g id="calendar" transform="translate(15.000000, 27.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Path" stroke="#8392B3" stroke-width="1.3" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <path d="M8.55555556,2.07777778 L7.33333333,2.07777778 L3.66666667,2.07777778 L2.44444444,2.07777778 L1.83333333,2.07777778 C0.822555556,2.07777778 0,3.22935556 0,4.64444444 L0,6.35555556 L11,6.35555556 L11,4.64444444 C11,3.22935556 10.1774444,2.07777778 9.16666667,2.07777778 L8.55555556,2.07777778 Z" id="Path" stroke="#8392B3" stroke-width="1.3" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <rect id="Rectangle" fill="#8392B3" fill-rule="nonzero" x="2.44444444" y="0" width="1.22222222" height="3.66666667" rx="0.611111111"></rect>
+                        <rect id="Rectangle" fill="#8392B3" fill-rule="nonzero" x="7.33333333" y="1.38950579e-13" width="1.22222222" height="3.66666667" rx="0.611111111"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

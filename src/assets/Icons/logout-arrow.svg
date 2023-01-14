@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logout-arrow</title>
+    <defs>
+        <path d="M103.133104,21.1332453 C102.894168,21.1332453 102.655232,21.0417774 102.47323,20.8597752 C102.108292,20.4948373 102.108292,19.9049632 102.47323,19.5400253 L105.557935,16.4553199 L102.589898,13.3818147 C102.232427,13.0103433 102.242693,12.4195359 102.613231,12.0620648 C102.984703,11.7045936 103.57551,11.7148604 103.932981,12.084465 L107.53756,15.8178452 C107.891298,16.1846498 107.886631,16.7661238 107.52636,17.126395 L103.792979,20.8597752 C103.610977,21.0417774 103.372041,21.1332453 103.133104,21.1332453" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Glocal-Dashboard" transform="translate(-1273.000000, -24.000000)">
+            <g id="Group-3" transform="translate(0.000000, 1.000000)">
+                <g id="Group-13" transform="translate(1173.000000, 10.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="logout-arrow" fill="#FFFFFF" fill-rule="nonzero" transform="translate(104.999636, 16.466860) scale(1, -1) rotate(-90.000000) translate(-104.999636, -16.466860) " xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

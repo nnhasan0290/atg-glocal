@@ -1,0 +1,19 @@
+.about-GB {
+  width: 275px;
+}
+@media only screen and (max-width: 600px) {
+  .rightNavBar {
+    display: flex;
+    flex-direction: column-reverse !important;
+  }
+  .leftNavBar {
+    display: flex;
+    flex-direction: column;
+  }
+  .about-GB {
+    margin-top: 2px;
+    width: 125px !important;
+    padding: 0;
+    font-size: small;
+  }
+}

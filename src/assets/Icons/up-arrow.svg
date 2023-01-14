@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="8px" viewBox="0 0 13 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>up-arrow</title>
+    <defs>
+        <path d="M22.2336254,31.3322729 C21.9178962,31.3322729 21.602167,31.2114078 21.3616702,30.970911 C20.8794433,30.4886841 20.8794433,29.7092277 21.3616702,29.2270007 L25.437783,25.150888 L21.5158348,21.089575 C21.0434744,20.5987148 21.0570409,19.8180252 21.5466678,19.3456647 C22.0375279,18.8733043 22.8182176,18.8868708 23.290578,19.3752643 L28.0536484,24.3085325 C28.5210756,24.793226 28.514909,25.5615825 28.0388486,26.0376429 L23.1055805,30.970911 C22.8650837,31.2114078 22.5493545,31.3322729 22.2336254,31.3322729" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Glocal-CreateJob" transform="translate(-1311.000000, -2149.000000)">
+            <g id="next-arrow" transform="translate(1318.000000, 2153.000000) scale(1, -1) rotate(90.000000) translate(-1318.000000, -2153.000000) translate(1293.000000, 2128.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="up-arrow" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
